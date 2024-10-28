@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Here is some of the projects I worked on during my engineering curriculum.
+
 <!---
 ### [IronMan](https://github.com/victor-bellot/ironman.git)
 
