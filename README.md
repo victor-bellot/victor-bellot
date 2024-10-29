@@ -22,7 +22,7 @@ ROS melodic workspace using Clearpath heron (2018) packages to bring the Clearpa
 
 ### [Guerledeux](https://github.com/victor-bellot/dd-boat-guerledeux.git)
 
-Making a Unmmaned Surface Vehicule follow arbitrary trajectories.
+Making a Unmmaned Surface Vehicule follows arbitrary trajectories.
 
 ### [DART](https://github.com/victor-bellot/dart-sim2real.git)
 
