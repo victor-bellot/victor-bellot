@@ -2,11 +2,9 @@
 
 Here is some of the projects I worked on during my engineering curriculum.
 
-<!---
 ### [IronMan](https://github.com/victor-bellot/ironman.git)
 
-Generating dexterous grasping from partially seen objects.
--->
+Final thesis : design of an original method for generating multi-finger grasps of partially perceived objects.
 
 ### [HydroChallenge ZED](https://github.com/victor-bellot/hydro-challenge-zed.git)
 
