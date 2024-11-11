@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here is some of the projects I worked on during my engineering curriculum.
+Here are some of the projects I worked on during my engineering curriculum.
 
 ### [IronMan](https://github.com/victor-bellot/ironman.git)
 
